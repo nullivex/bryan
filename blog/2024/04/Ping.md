@@ -54,3 +54,22 @@ word processor.
 A cursor and Git yep.
 
 Until next time.
+
+## Comments
+
+It's simple, make a merge request.
+
+Format like this.
+
+```
+[name] - [date]
+[message]
+```
+
+### Example Comment
+
+Bryan T - 4-8-24
+
+Hello, I read it. I thought about using gists but it just goes back to complicating
+my news space.
+
