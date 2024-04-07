@@ -9,6 +9,6 @@ to bryantong.com.
 
 ## Blog
 
-* 2024-04-07 [Ping](https://github.com/nullivex/bryan/blog/2024/04/Ping.md) - An introduction.
+* 2024-04-07 [Ping](https://github.com/nullivex/bryan/blob/main/blog/2024/04/Ping.md) - An introduction.
 
 &copy; 2024 NULLIVEX LLC, Bryan Tong. All rights reserved.
